@@ -1,16 +1,8 @@
-Then paste this content:
 
-<details> <summary>📄 Click to expand full README content</summary>
-markdown
-Copy
-Edit
 # 🧊 幽影掷点 (PhantomRoll)
 
 **Stealth Telegram Dice Automation System (PROLL 8879)**  
 Ultra-low-latency, production-grade Telegram dice controller built with **C++**, **Java**, and **Python**, featuring **TDLib integration**, **socket control**, and **GUI automation**.
-
----
-
 ## 📌 Features
 
 - 🔐 **TDLib-based session management**
