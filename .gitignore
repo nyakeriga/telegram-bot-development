@@ -1,0 +1,21 @@
+# Build and binaries
+build/
+*.o
+*.so
+*.dll
+*.exe
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS/system files
+.DS_Store
+Thumbs.db
